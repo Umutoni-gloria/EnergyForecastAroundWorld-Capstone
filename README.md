@@ -20,6 +20,7 @@ This project analyzes and forecasts household energy consumption patterns in Afr
 ## 🧪 Key Insights
 - Energy use trends from 2000–2022 across African countries
 - Forecast for Rwanda using Linear Regression
+  ![Linear][] 
 - Top energy-consuming countries identified
 
 ## 📂 Instructions
