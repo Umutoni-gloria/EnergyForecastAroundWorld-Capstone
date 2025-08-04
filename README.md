@@ -19,11 +19,16 @@ This project analyzes and forecasts household energy consumption patterns in Afr
 
 ## 🧪 Key Insights
 - Energy use trends from 2000–2022 across African countries
+  ![Line chart](https://github.com/Umutoni-gloria/EnergyForecastAroundWorld-Capstone/blob/1579853a72bedd529debdbb76554c22999ef2bb9/Screenshots%20for%20energy/EDA%201.png)
 - Forecast for Rwanda using Linear Regression
   ![Linear](https://github.com/Umutoni-gloria/EnergyForecastAroundWorld-Capstone/blob/1579853a72bedd529debdbb76554c22999ef2bb9/Screenshots%20for%20energy/linear%20regression.png
 )
 - Top energy-consuming countries identified
-
+  ![Top countries](https://github.com/Umutoni-gloria/EnergyForecastAroundWorld-Capstone/blob/1579853a72bedd529debdbb76554c22999ef2bb9/Screenshots%20for%20energy/EDA%202.png)
+- Innovation predicting Rwanda is Energy in 2023
+  ![Innovation](https://github.com/Umutoni-gloria/EnergyForecastAroundWorld-Capstone/blob/1579853a72bedd529debdbb76554c22999ef2bb9/Screenshots%20for%20energy/Innovation.png)
+- Dashboard in Power BI
+  ![Dashboard](https://github.com/Umutoni-gloria/EnergyForecastAroundWorld-Capstone/blob/1579853a72bedd529debdbb76554c22999ef2bb9/Screenshots%20for%20energy/Dashboard.png)
 ## 📂 Instructions
 1. Open the `EnergyForecastAfrica.ipynb` notebook to see data cleaning, EDA, modeling.
 2. View `EnergyDashboard.pbix` in Power BI for interactive visuals.
